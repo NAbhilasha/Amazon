@@ -3,7 +3,7 @@ public class Payment{
 {
  System.out.println("Hello");
 
-for (i=0;i<=40;i++)
+for (i=0;i<=30;i++)
 {
 System.out.println(i);
 }
